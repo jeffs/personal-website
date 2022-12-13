@@ -1,0 +1,12 @@
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-color: #B0ABC0;
+  color: white;
+}
+
+.site-footer {
+  background-color: #001E11;
+  padding: 20px 0;
+  color: #B0ABC0;
+}
