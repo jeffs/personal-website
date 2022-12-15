@@ -1,8 +1,6 @@
-.jumbotron {
-  margin: 0;
-  padding: 30px;
+.site-header {
+  padding: 20px;
   background-color: #B0ABC0;
-  color: white;
 }
 
 .site-footer {
@@ -11,7 +9,7 @@
   color: #B0ABC0;
 }
 
-.main {
+.home-main {
   color: white;
   background-image: url(/img/background_pattern.svg);
   background-position: center;
@@ -37,4 +35,24 @@
   font-weight: bold;
   display: block;
   max-width: 20rem;
+}
+
+.navbar-item {
+  font-size: large;
+  color:white;
+  font-weight: bold;
+  padding: 0px 20px;
+}
+
+.name {
+  font-size: 2rem;
+  padding: 0rem;
+  margin-left: 4rem;
+  text-align: right;
+  font-weight: 500;
+}
+
+hr {
+  border: 3px solid #001E11;
+  margin: 0;
 }
