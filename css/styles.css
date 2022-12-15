@@ -1,5 +1,5 @@
 .site-header {
-  padding: 20px;
+  padding: 1rem;
   background-color: #B0ABC0;
 }
 
@@ -21,19 +21,18 @@
   font-weight: 500;
   color: #001E11;
   text-align: center;
-  margin: 5rem;
+  margin: 5.5rem;
 }
 
-.button {
+.button-main {
   background: #AC65BE;
   padding: 15px;
-  margin-bottom: 3rem;
+  margin: 1rem;
   text-align: center;
   border-radius:20px;
-  color: white;
   font-weight: bold;
-  display: block;
-  max-width: 20rem;
+  color: white;
+  display: inline-block;
 }
 
 .navbar-item {
