@@ -62,3 +62,11 @@ hr {
   border: 3px solid #001E11;
   margin: 0;
 }
+
+.placeholder-div{
+  background-color: #9a8dc5;
+}
+
+.placeholder-splan{
+  background-color: #B0ABC0;
+}
