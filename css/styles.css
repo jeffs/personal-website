@@ -67,6 +67,10 @@ hr {
   background-color: #9a8dc5;
 }
 
-.placeholder-splan{
+.placeholder-span{
   background-color: #B0ABC0;
+}
+
+.headshot {
+  height: 80%;
 }
