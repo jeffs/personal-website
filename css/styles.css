@@ -1,19 +1,19 @@
 .site-header {
   padding: 1rem;
-  background-color: #B0ABC0;
+  background-color: #9a8dc5;
 }
 
 .site-footer {
   background-color: #001E11;
+  display: block;
   color: #B0ABC0;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
+  padding: 4rem;
+  margin-top: 5rem ;
 }
 
 .home-main {
   background-image: url(/img/background_pattern.svg);
+  padding-bottom: 5rem;
 }
 
 .home-text {
@@ -45,7 +45,6 @@
 .name {
   font-size: 2rem;
   padding: 0rem;
-  margin-left: 4rem;
   text-align: right;
   font-weight: 500;
 }
