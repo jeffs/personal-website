@@ -15,6 +15,10 @@ body{
   color: #B0ABC0;
   }
 
+.social-icons {
+  margin: .5rem;
+}
+
 .home-main {
   background-image: url(/img/background_pattern.svg);
   background-color: white;
